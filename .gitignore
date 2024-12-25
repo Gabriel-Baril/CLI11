@@ -24,3 +24,4 @@ a.out*
 *.vcxproj
 *.vcxproj.filters
 out/
+x64/
