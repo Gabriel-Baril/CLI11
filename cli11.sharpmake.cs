@@ -6,7 +6,7 @@ public class HdnCodeExternalCLI11Project : BaseCppProject
 {
     public HdnCodeExternalCLI11Project()
     {
-        Name = "hdn.code.external.cli11";
+        Name = "dm.code.external.cli11";
         // SourceRootPath = @"[project.SharpmakeCsPath]\include";
         AddTargets(TargetUtil.DefaultTarget);
     }
