@@ -2,9 +2,9 @@ using System.IO; // For Path.Combine
 using Sharpmake; // Contains the entire Sharpmake object library.
 
 [Generate]
-public class HdnCodeExternalCLI11Project : BaseCppProject
+public class DmCodeExternalCLI11Project : BaseCppProject
 {
-    public HdnCodeExternalCLI11Project()
+    public DmCodeExternalCLI11Project()
     {
         Name = "dm.code.external.cli11";
         // SourceRootPath = @"[project.SharpmakeCsPath]\include";
